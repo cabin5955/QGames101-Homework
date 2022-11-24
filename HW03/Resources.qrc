@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/models">
+        <file>models/spot/hmap.jpg</file>
+        <file>models/spot/spot_control_mesh.obj</file>
+        <file>models/spot/spot_quadrangulated.obj</file>
+        <file>models/spot/spot_texture.png</file>
+        <file>models/spot/spot_texture.svg</file>
+        <file>models/spot/spot_triangulated_good.obj</file>
+        <file>models/spot/spot_triangulated.obj</file>
+        <file>models/cube/cube.mtl</file>
+        <file>models/cube/cube.obj</file>
+        <file>models/cube/wall.tif</file>
+        <file>models/cube/wall1.tif</file>
+        <file>models/cube/mycube.obj</file>
+    </qresource>
+</RCC>
